@@ -4,8 +4,10 @@ description: https://www.linkedin.com/in/chetanamrao/ # This will show up in pla
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-github_username: "chetanknowit"
-linkedin_username: "chetanamrao"
+email: "example@mail.com"
+twitter_username: "twitteruser"
+github_username: "githubuser"
+linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
